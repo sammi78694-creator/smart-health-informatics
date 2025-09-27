@@ -21,4 +21,15 @@
   - *Generative AI-Driven Solutions for Safer and Smarter Emergency Nursing Handover* [Poster], ACiNE 2025, Brisbane  
   - *The Application Effectiveness of Constructing Visualized Cross-Healthcare Team Meeting Charts in Hospital Management through BI Systems* [Poster], IHC 2024  
   - *Application of Closed-Loop Management of Breast Milk in the Monitoring-to-Feeding Process* [Oral], IHC 2024  
-  - *Di*
+  - *Discussion on the Effectiveness and Satisfaction of Introducing Multi-Intelligent Assistive Care System for COVID-19* [Poster], 8th AHLA International Conference, Changhua, Taiwan
+
+---
+
+## 💻 GitHub Projects
+### 1. AI-Powered Nursing Handover Summarizer
+- Demo project with Python-based extractive summarization  
+- Functions: structured nursing shift reports, keyword highlights (vitals, medication, allergy, fall risk)  
+- Files included: `summarizer.py`, `sample_handover.txt`  
+- Run example:  
+  ```bash
+  python summarizer.py --input sample_handover.txt --top_k 5
