@@ -46,5 +46,3 @@ It demonstrates practical text processing for healthcare operations — suitable
 **Quick Start**
 ```bash
 python summarizer.py --input sample_handover.txt --top_k 5
-
-python summarizer.py --input sample_handover.txt --top_k 5
