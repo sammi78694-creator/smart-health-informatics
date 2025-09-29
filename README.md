@@ -46,6 +46,12 @@ It demonstrates practical text processing for healthcare operations — suitable
 **Quick Start**
 ```bash
 python summarizer.py --input sample_handover.txt --top_k 5
+
+然後在下面加上：
+
+```markdown
+---
+
 ## 📫 Contact
-- 📧 sammi78694@gmail.com  
-- 🌐 GitHub: [Smart Health Informatics Repo](https://github.com/sammi78694-creator/smart-health-informatics)
+- 📧 Email: **sammi78694@gmail.com**  
+- 🌐 GitHub: [Smart Health Informatics Repo](https://github.com/sammi78694-creator/smart-health-informatics)  
