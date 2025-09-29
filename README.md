@@ -47,8 +47,6 @@ It demonstrates practical text processing for healthcare operations — suitable
 ```bash
 python summarizer.py --input sample_handover.txt --top_k 5
 
-然後在下面加上：
-
 ```markdown
 ---
 
